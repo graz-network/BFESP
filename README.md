@@ -1,10 +1,10 @@
 # BFESP Orchestrator
 
-`bfesp-orchestrator` is a research orchestration skill for turning the 2016 **Rapport-FEP-Graz** coaching report and the broader **BFESP / Talent Romandie** archive into a stronger bilingual academic article package.
+`bfesp-orchestrator` is a research orchestration skill for turning the 2016 **Rapport-FEP-Graz** professionnal coaching report and the broader **BFESP / Talent Romandie** archive into a stronger bilingual academic article package.
 
 It is designed for projects that combine:
 
-- one anchor PDF such as `Rapport-FEP-Graz-digital.pdf`
+- one anchor PDF such as `Rapport-FEP-Graz.pdf`
 - a broader BFESP archive
 - Talent Romandie materials spanning multiple years
 - a need for **independent English and French article drafts**
